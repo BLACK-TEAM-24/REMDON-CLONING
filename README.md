@@ -20,11 +20,11 @@ pip install request
 
 pip install rich
 
-rm -rf REMDON-CLONING
+rm -rf RENDOM-CLONING
 
-git clone https://github.com/BLACK-TEAM-24/REMDON-CLONING.git
+git clone https://github.com/BLACK-TEAM-24/RENDOM-CLONING.git
 
-cd REMDON-CLONING
+cd RENDOM-CLONING
 
 python rendom-cloning.py
 
